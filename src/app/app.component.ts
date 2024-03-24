@@ -6,9 +6,17 @@ import { RouterOutlet } from '@angular/router';
   standalone: true,
   imports: [RouterOutlet],
   template: `
-    <h1>Welcome to {{title}}!</h1>
-
-    <router-outlet />
+   <div>
+     <aside class="flex flex-col justify-between">
+       <div></div>
+       <div></div>
+       <div></div>
+       <div></div>
+       <div></div>
+       <div></div>
+     </aside>
+     <main class="main"></main>
+   </div>
   `,
   styleUrl: './app.component.css'
 })
