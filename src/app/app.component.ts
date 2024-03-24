@@ -8,7 +8,7 @@ import { RouterOutlet } from '@angular/router';
   template: `
    <div>
      <aside class="flex flex-col justify-between">
-       <div></div>
+       <div>abc dupa </div>
        <div></div>
        <div></div>
        <div></div>
