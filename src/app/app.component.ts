@@ -10,7 +10,7 @@ import { RouterOutlet } from '@angular/router';
      <aside class="flex flex-col justify-between">
        <div></div>
        <div></div>
-       <div></div>test
+       <div></div>
        <div></div>
        <div></div>
        <div></div>
